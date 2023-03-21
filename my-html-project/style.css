@@ -1,0 +1,30 @@
+html{
+    font-size: 22px;
+}
+body{
+    background-color: #333;
+    color: whitesmoke;
+
+    border: 3px solid snow;
+    width: 70vw;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+a{
+    color: whitesmoke;
+}
+a:visited{
+    color: whitesmoke;
+}
+a:hover, a :active{
+    color: antiquewhite;
+}
+table, th, td{
+    border: 1px solid snow;
+    border-collapse: collapse;
+}
+.most_used_link{
+    color: whitesmoke;
+}
